@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<config>
+    <modules>
+        <KL_First>
+            <version>0.0.1</version>
+        </KL_First>
+    </modules>
+</config>
